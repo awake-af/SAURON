@@ -26,7 +26,7 @@
 cd D:/DEV/SAURON
 git init
 git add .
-git commit -m "Initial runbook and structure"
+git commit -m "Initial SAURON runbook"
 git branch -M main
 git remote add origin https://github.com/YOUR_USERNAME/SAURON.git
 git push -u origin main
@@ -39,7 +39,7 @@ gh auth login
 cd D:/DEV/SAURON
 git init
 git add .
-git commit -m "Initial runbook and structure"
+git commit -m "Initial SAURON runbook"
 gh repo create YOUR_USERNAME/SAURON --public --source=. --remote=origin --push
 ```
 
