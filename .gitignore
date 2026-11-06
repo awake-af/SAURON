@@ -1,0 +1,7 @@
+# Secrets and local overrides
+.env
+*.pem
+*.key
+.terraform/
+*.tfstate
+*.tfstate.*
